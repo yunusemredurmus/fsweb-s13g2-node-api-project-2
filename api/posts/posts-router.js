@@ -1,1 +1,1 @@
-// post routerları buraya yazın
+// posts için gerekli routerları buraya yazın
