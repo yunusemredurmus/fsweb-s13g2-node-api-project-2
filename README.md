@@ -92,7 +92,7 @@ Bu projeyi forkladıktan sonra bilgisayarınıza klonlayın.
 
 #### 5 [DELETE] /api/posts/:id
 
-İstemci `/api/users/:id` 'e `DELETE` isteği yaparsa :
+İstemci `/api/posts/:id` 'e `DELETE` isteği yaparsa :
 
 - Eğer belirtilen `id` li _post_ mevcut değilse:
 
