@@ -1,2 +1,3 @@
-// implement your server here
-// require your posts router and connect it here
+// server için gerekli olanları burada ayarlayın
+
+// posts router'ını buraya require edin ve bağlayın
